@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/button_background.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Estado presionado -->
+    <item android:state_pressed="true" android:color="@color/material_dynamic_tertiary70"/>
+    <!-- Estado enfocado -->
+    <item android:state_focused="true" android:color="@color/material_dynamic_tertiary70" />
+    <!-- Estado por defecto -->
+    <item android:color="@color/white" />
+</selector>
